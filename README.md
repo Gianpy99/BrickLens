@@ -1,5 +1,8 @@
 # 📸 BrickLens
 
+![Web Build](https://github.com/Gianpy99/BrickLens/actions/workflows/ci.yml/badge.svg?label=Web%20Build&job=web-build)  
+![Android Build](https://github.com/Gianpy99/BrickLens/actions/workflows/ci.yml/badge.svg?label=Android%20Build&job=android-build)
+
 BrickLens is a personal **Lego Photography Journal** that syncs across **Web (React)** and **Android (Flutter)**.  
 It helps you capture, upload, and annotate Lego photo shoots — whether taken with a DSLR or your phone.  
 Think of it as a creative diary for Lego storytelling.
